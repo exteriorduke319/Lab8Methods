@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class RegExMagic {
+public class RegExMagic {
+    public static void main(String[] args) {
+
+    }
 }

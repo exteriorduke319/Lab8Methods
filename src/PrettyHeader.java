@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class PrettyHeader {
+public class PrettyHeader {
+    public static void main(String[] args) {
+
+    }
 }

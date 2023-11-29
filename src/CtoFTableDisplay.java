@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class CtoFTableDisplay {
+public class CtoFTableDisplay {
+    public static void main(String[] args) {
+
+    }
 }
